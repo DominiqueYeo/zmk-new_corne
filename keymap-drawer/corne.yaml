@@ -80,7 +80,7 @@ layers:
   - RGB OFF
   - RGB ON
   - EP OFF
-  - Sft+Ctl+5
+  - '&mac_screenshot'
   - RGB EFF
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - RGB EFR
